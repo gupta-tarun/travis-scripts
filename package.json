@@ -1,0 +1,25 @@
+{
+  "name": "travis-scripts",
+  "version": "1.0.0",
+  "description": "some utilities to perform basic checks on travis builds Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gupta-tarun/travis-scripts.git"
+  },
+  "keywords": [
+    "coverage",
+    "travis",
+    "ci",
+    "code-coverage"
+  ],
+  "author": "Tarun Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gupta-tarun/travis-scripts/issues"
+  },
+  "homepage": "https://github.com/gupta-tarun/travis-scripts#readme"
+}
